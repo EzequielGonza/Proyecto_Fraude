@@ -275,6 +275,9 @@ pytest -q
 
 **Ezequiel Gonzalez** — Data Science & Analytics 
 
+ - Contacto: *ezequiel.gonzalez08a@gmail.com* — *https://www.linkedin.com/in/ezequiel-gonzalez-cvi/* —
+ - Visualizacion : https://drive.google.com/drive/folders/1_VtFLqUdDAgqNI9csOgBhb2NfFEWvPu0
+
 **Pedro Rubio** — Machine Learning Engenieer 
 
 - App Streamlit *https://proyectofraude-hyd2ycaphdnqqbeo87scer.streamlit.app/*, BI con Tableau/Power BI.
