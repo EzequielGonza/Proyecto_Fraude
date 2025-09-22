@@ -271,7 +271,7 @@ pytest -q
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Ezequiel Gonzalez** — Data Science & Analytics 
 
